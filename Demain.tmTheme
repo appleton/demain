@@ -22,13 +22,15 @@
 				<key>caret</key>
 				<string>#AEAFAD</string>
 				<key>foreground</key>
-				<string>#4D4D4C</string>
+				<string>#111111</string>
 				<key>invisibles</key>
 				<string>#D1D1D1</string>
 				<key>lineHighlight</key>
 				<string>#ffffff</string>
-				<key>selection</key>
-				<string>#D6D6D6</string>
+	      <key>selection</key>
+	      <string>#B5D5FF</string>
+	      <key>selectionBorder</key>
+	      <string>#B5D5FF</string>
 			</dict>
 		</dict>
 		<dict>
