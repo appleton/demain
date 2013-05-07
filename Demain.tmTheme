@@ -48,13 +48,13 @@
 			<key>name</key>
 			<string>Foreground</string>
 			<key>scope</key>
-			<string>keyword.operator.class, constant.other, source.php.embedded.line</string>
+			<string>keyword.operator.class, constant.other, source.php.embedded.line, source.ruby.embedded</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#666969</string>
+				<string>#111111</string>
 			</dict>
 		</dict>
 		<dict>
