@@ -20,7 +20,7 @@
 				<key>background</key>
 				<string>#f9f9f9</string>
 				<key>caret</key>
-				<string>#AEAFAD</string>
+				<string>#000000</string>
 				<key>foreground</key>
 				<string>#111111</string>
 				<key>invisibles</key>
