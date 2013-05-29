@@ -11,7 +11,7 @@
 	<key>name</key>
 	<string>Demain</string>
 	<key>semanticClass</key>
-	<string>theme.light.tomorrow</string>
+	<string>theme.light.demain</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -275,6 +275,105 @@
 				<string>#829c00</string>
 			</dict>
 		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>CSS: Attribute name</string>
+			<key>scope</key>
+			<string>support.type.property-name.css, support.type.property-name.sass, entity.other.attribute-name.tag.pseudo-element</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#708D05</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>CSS: Number</string>
+			<key>scope</key>
+			<string>constant.numeric.css, constant.numeric.sass, constant.other.unit.css, constant.other.unit.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#F07219</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>CSS: url</string>
+			<key>scope</key>
+			<string>variable.parameter.url</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#111111</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>CSS: property value</string>
+			<key>scope</key>
+			<string>support.constant.property-value.sass, support.constant.property-value.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#32888D</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>CSS: hex colour</string>
+			<key>scope</key>
+			<string>constant.other.rgb-value.sass, constant.other.rgb-value.css, constant.other.color.rgb-value.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#B9131F</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>CSS: @rule</string>
+			<key>scope</key>
+			<string>keyword.control.at-rule.sass, keyword.control.at-rule.css, keyword.control.at-rule.import.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#BC8E06</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Sass variable</string>
+			<key>scope</key>
+			<string>variable.parameter.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#B9131F</string>
+			</dict>
+		</dict>
+
 	</array>
 	<key>uuid</key>
 	<string>82CCD69C-F1B1-4529-B39E-780F91F07604</string>
