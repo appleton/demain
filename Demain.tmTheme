@@ -151,12 +151,10 @@
 			<string>invalid</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#C82829</string>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#C82829</string>
 			</dict>
 		</dict>
 		<dict>
