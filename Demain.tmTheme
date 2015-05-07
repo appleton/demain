@@ -57,7 +57,7 @@
 			<key>name</key>
 			<string>Babel ES6 tweaks</string>
 			<key>scope</key>
-			<string>variable.other.object.js, punctuation.definition.parameters, meta.group.braces.round.function.arguments.js, variable.other.readwrite.js, variable.other.constant.js</string>
+			<string>variable.other.object.js, punctuation.definition.parameters, meta.group.braces.round.function.arguments.js, variable.other.readwrite.js, variable.other.constant.js, string.unquoted.label.js</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -81,7 +81,7 @@
 			<key>name</key>
 			<string>Number, Constant, Function Argument, Tag Attribute, Embedded</string>
 			<key>scope</key>
-			<string>constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit</string>
+			<string>constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit, punctuation.quasi.element.begin.js, punctuation.quasi.element.end.js</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
